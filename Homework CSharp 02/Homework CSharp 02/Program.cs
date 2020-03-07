@@ -22,6 +22,10 @@ namespace Homework_CSharp_02
                     Console.WriteLine($"The larger number is {number1} and the number is odd!");
                 }
             }
+            else if(number1 == number2)
+            {
+                Console.WriteLine("The numbers are equal!");
+            }
             else
             {
                 if (number2 % 2 == 0)
