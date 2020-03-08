@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.exe
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\bin\Debug\netcoreapp3.1\CSharp Homework RealCalculator.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\obj\Debug\netcoreapp3.1\CSharp Homework RealCalculator.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\obj\Debug\netcoreapp3.1\CSharp Homework RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\obj\Debug\netcoreapp3.1\CSharp Homework RealCalculator.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\obj\Debug\netcoreapp3.1\CSharp Homework RealCalculator.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework RealCalculator\CSharp Homework RealCalculator\obj\Debug\netcoreapp3.1\CSharp Homework RealCalculator.pdb
