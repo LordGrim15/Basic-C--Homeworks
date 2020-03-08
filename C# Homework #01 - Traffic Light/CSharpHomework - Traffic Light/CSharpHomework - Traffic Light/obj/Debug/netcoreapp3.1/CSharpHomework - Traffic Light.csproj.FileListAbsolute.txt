@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.exe
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.deps.json
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.runtimeconfig.json
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.runtimeconfig.dev.json
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.dll
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\bin\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.pdb
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\obj\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.csprojAssemblyReference.cache
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\obj\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\obj\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.AssemblyInfo.cs
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\obj\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.dll
+C:\Users\Petar Gj\source\repos\CSharpHomework - Traffic Light\CSharpHomework - Traffic Light\obj\Debug\netcoreapp3.1\CSharpHomework - Traffic Light.pdb
