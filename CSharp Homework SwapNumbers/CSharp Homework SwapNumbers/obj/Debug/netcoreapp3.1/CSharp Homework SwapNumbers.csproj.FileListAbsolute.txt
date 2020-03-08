@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.exe
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\bin\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\obj\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\obj\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\obj\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\obj\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework SwapNumbers\CSharp Homework SwapNumbers\obj\Debug\netcoreapp3.1\CSharp Homework SwapNumbers.pdb
