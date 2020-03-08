@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.exe
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\bin\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\obj\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\obj\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\obj\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\obj\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\CSharp Homework AveregeNumber\CSharp Homework AveregeNumber\obj\Debug\netcoreapp3.1\CSharp Homework AveregeNumber.pdb
