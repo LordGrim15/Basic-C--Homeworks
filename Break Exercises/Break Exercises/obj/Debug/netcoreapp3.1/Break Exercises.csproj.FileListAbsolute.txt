@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.exe
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\bin\Debug\netcoreapp3.1\Break Exercises.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\obj\Debug\netcoreapp3.1\Break Exercises.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\obj\Debug\netcoreapp3.1\Break Exercises.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\obj\Debug\netcoreapp3.1\Break Exercises.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\obj\Debug\netcoreapp3.1\Break Exercises.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Break Exercises\Break Exercises\obj\Debug\netcoreapp3.1\Break Exercises.pdb
