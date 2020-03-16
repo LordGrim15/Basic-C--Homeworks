@@ -9,3 +9,14 @@ C:\Users\Petar Gj\Desktop\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\
 C:\Users\Petar Gj\Desktop\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.AssemblyInfo.cs
 C:\Users\Petar Gj\Desktop\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.dll
 C:\Users\Petar Gj\Desktop\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.exe
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\bin\Debug\netcoreapp3.1\Heroes Journey.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\Heroes Journey\Heroes Journey\obj\Debug\netcoreapp3.1\Heroes Journey.pdb

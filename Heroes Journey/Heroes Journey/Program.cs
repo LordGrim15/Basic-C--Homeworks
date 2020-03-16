@@ -53,40 +53,40 @@ namespace Heroes_Journey
         {
             string[] emailArr = { "jojo@mail.com", "cool@mail.com" };
             string[] passArr = { "jojo123", "cool123" };
-            bool continueToCharCreation = false;
             int wrongTriesCounter = 1;
+            int mailCheck;
+            int passCheck;
 
+            Console.WriteLine("Welcome to Hero Journey!");
+            Console.Write("Enter e-mail: ");
+            string emailInput = Console.ReadLine().ToLower();
+            Console.Write("Enter password: ");
+            string passInput = Console.ReadLine().ToLower();
+            EmptyInputs(emailInput, passInput, wrongTriesCounter);
 
-            while (!continueToCharCreation)
+            mailCheck = Array.IndexOf(emailArr, emailInput);
+            passCheck = Array.IndexOf(passArr, passInput);
+
+            while (mailCheck == -1 || passCheck == -1 || mailCheck != passCheck)
             {
+                Console.WriteLine("E-mail or password did not match!");
+                Console.WriteLine("Press Enter to try again!");
+                Console.ReadLine();
+                Console.Clear();
                 Console.WriteLine("Welcome to Hero Journey!");
                 Console.Write("Enter e-mail: ");
-                string emailInput = Console.ReadLine().ToLower();
+                emailInput = Console.ReadLine().ToLower();
                 Console.Write("Enter password: ");
-                string passInput = Console.ReadLine().ToLower();
-                EmptyInputs(emailInput, passInput, wrongTriesCounter);
-                MailChecker(emailInput, passInput, wrongTriesCounter);
-                if (emailArr[0] == emailInput && passArr[0] == passInput)
-                {
-                    Console.WriteLine($"Welcome {emailInput}!");
-                    Console.WriteLine($"Press Enter to start with character creation...");
-                    continueToCharCreation = true;
-                }
-                else if (emailArr[1] == emailInput && passArr[1] == passInput)
-                {
-                    Console.WriteLine($"Welcome {emailInput}!");
-                    Console.WriteLine($"Press Enter to start with character creation...");
-                    continueToCharCreation = true;
-                }
-                else
-                {
-                    Console.WriteLine("E-mail or password did not match!");
-                    Console.WriteLine("Press Enter to try again!");
-                    Console.ReadLine();
-                    Console.Clear();
-                    continueToCharCreation = false;
-                }
+                passInput = Console.ReadLine().ToLower();
+                mailCheck = Array.IndexOf(emailArr, emailInput);
+                passCheck = Array.IndexOf(passArr, passInput);
             }
+
+
+
+            Console.WriteLine($"Welcome {emailInput}!");
+            Console.WriteLine($"Press Enter to start with character creation...");
+
 
             Game();
 
@@ -286,7 +286,7 @@ namespace Heroes_Journey
         }
         static void EmptyInputs(string input1, string input2, int counter)
         {
-            while (input1 == "" || input2 == "")
+            if (input1 == "" || input2 == "")
             {
                 ExitCheck(counter++);
                 Console.WriteLine("E-mail or password is empty!");
@@ -299,10 +299,7 @@ namespace Heroes_Journey
                 Console.Write("Enter password: ");
                 input2 = Console.ReadLine().ToLower();
             }
-        }
-        static void MailChecker(string input1, string input2, int counter)
-        {
-            while (!input1.Contains("@") || !input1.Contains("."))
+            if (!input1.Contains("@") || !input1.Contains("."))
             {
                 ExitCheck(counter++);
                 Console.WriteLine("Invalid e-mail!");
@@ -416,6 +413,10 @@ namespace Heroes_Journey
                 Console.ResetColor();
                 Console.WriteLine("Press enter to continue...");
                 Console.ReadLine();
+                Console.Clear();
+                Console.WriteLine("Do you want to play again?");
+                Console.WriteLine("1) Yes");
+                Console.WriteLine("2) No");
                 yesNo = Int32.TryParse(Console.ReadLine(), out answer);
             }
             if (answer == 1)
@@ -439,3 +440,5 @@ namespace Heroes_Journey
         }
     }
 }
+
+        

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Gj\\Desktop\\Heroes Journey\\Heroes Journey\\Heroes Journey.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Gj\\Desktop\\GitHub\\Basic-C--Homeworks\\Heroes Journey\\Heroes Journey\\Heroes Journey.csproj",
       "projectName": "Heroes Journey",
-      "projectPath": "C:\\Users\\Petar Gj\\Desktop\\Heroes Journey\\Heroes Journey\\Heroes Journey.csproj",
+      "projectPath": "C:\\Users\\Petar Gj\\Desktop\\GitHub\\Basic-C--Homeworks\\Heroes Journey\\Heroes Journey\\Heroes Journey.csproj",
       "packagesPath": "C:\\Users\\Petar Gj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Gj\\Desktop\\Heroes Journey\\Heroes Journey\\obj\\",
+      "outputPath": "C:\\Users\\Petar Gj\\Desktop\\GitHub\\Basic-C--Homeworks\\Heroes Journey\\Heroes Journey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Gj\\AppData\\Roaming\\NuGet\\NuGet.Config",
