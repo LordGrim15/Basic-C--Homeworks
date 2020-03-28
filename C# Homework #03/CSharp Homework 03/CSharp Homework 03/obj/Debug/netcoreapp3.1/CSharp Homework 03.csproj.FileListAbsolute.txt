@@ -1,0 +1,11 @@
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.exe
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.deps.json
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.dll
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\bin\Debug\netcoreapp3.1\CSharp Homework 03.pdb
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\obj\Debug\netcoreapp3.1\CSharp Homework 03.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\obj\Debug\netcoreapp3.1\CSharp Homework 03.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\obj\Debug\netcoreapp3.1\CSharp Homework 03.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\obj\Debug\netcoreapp3.1\CSharp Homework 03.dll
+C:\Users\Petar Gj\Desktop\CSharp Homework 03\CSharp Homework 03\obj\Debug\netcoreapp3.1\CSharp Homework 03.pdb
