@@ -37,9 +37,16 @@ namespace CSharp_Homework_04
             int userMonths = currentMonth - birthMonth;
             int userDay = currentDay - currentDay;
 
-            if (userMonths <= 0 && userDay <= 0)
+            if ((birthMonth == currentMonth && birthDay == currentDay) || (userMonths <= 0 && userDay <= 0))
             {
-                userAge -= 1;
+                if (birthMonth == currentMonth && birthDay == currentDay)
+                {
+                    userAge += 1;
+                }
+                if (userMonths <= 0 && userDay <= 0)
+                {
+                    userAge -= 1;
+                }
             }
 
             return userAge;
