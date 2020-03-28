@@ -195,7 +195,7 @@ namespace Break_Exercise1
 
             //Console.WriteLine("Please insert {0}$", prices[selectedDrink]);
             //double insertedMoney = DoubleParser();
-            //while(insertedMoney < prices[selectedDrink])
+            //while (insertedMoney < prices[selectedDrink])
             //{
             //    missingMoney = prices[selectedDrink] - insertedMoney;
             //    Console.WriteLine("The drink costs {0}$! You're missing {1}$!", prices[selectedDrink], missingMoney);
