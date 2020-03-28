@@ -1,0 +1,10 @@
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\bin\Debug\netcoreapp2.1\CSharp Homework 04.deps.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\bin\Debug\netcoreapp2.1\CSharp Homework 04.runtimeconfig.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\bin\Debug\netcoreapp2.1\CSharp Homework 04.runtimeconfig.dev.json
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\bin\Debug\netcoreapp2.1\CSharp Homework 04.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\bin\Debug\netcoreapp2.1\CSharp Homework 04.pdb
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\obj\Debug\netcoreapp2.1\CSharp Homework 04.csprojAssemblyReference.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\obj\Debug\netcoreapp2.1\CSharp Homework 04.AssemblyInfoInputs.cache
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\obj\Debug\netcoreapp2.1\CSharp Homework 04.AssemblyInfo.cs
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\obj\Debug\netcoreapp2.1\CSharp Homework 04.dll
+C:\Users\Petar Gj\Desktop\GitHub\Basic-C--Homeworks\C# Homework #04\CSharp Homework 04\CSharp Homework 04\obj\Debug\netcoreapp2.1\CSharp Homework 04.pdb
