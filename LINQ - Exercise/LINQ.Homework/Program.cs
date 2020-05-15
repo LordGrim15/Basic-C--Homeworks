@@ -153,7 +153,7 @@ namespace LINQ.Homework
 
             Console.WriteLine("=======================================");
             
-            string albumWithTheMostSongsThatContainTheLetterA = Albums.OrderByDescending(x => x.Songs.Any(a => a.Name.Contains('a'))).Select(x => x.Name).FirstOrDefault();
+            string albumWithTheMostSongsThatContainTheLetterA = Albums.OrderByDescending(x => x.Songs.Where(a => a.Name.Contains('a')).Count()).Select(x => x.Name).FirstOrDefault();
             Console.WriteLine("The name of the album that has most songs that contain the letter 'a' in the name is: {0}", albumWithTheMostSongsThatContainTheLetterA);
             
             Console.WriteLine("=======================================");
